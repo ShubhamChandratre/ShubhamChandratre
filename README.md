@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chandratreshubham@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kZUPgmufff3BzFJN_aBjtirAXCFM6vnv/view?usp=sharing](https://drive.google.com/file/d/1kZUPgmufff3BzFJN_aBjtirAXCFM6vnv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yYkcZb9EMwhcXLHHfzoF9DmLvERJbf3x/view](https://drive.google.com/file/d/1yYkcZb9EMwhcXLHHfzoF9DmLvERJbf3x/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
