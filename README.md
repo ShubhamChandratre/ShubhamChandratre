@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchandratre" alt="shubhamchandratre" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Email Schedular**
 
 - 🌱 I’m currently learning **Cloud**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chandratreshubham@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yYkcZb9EMwhcXLHHfzoF9DmLvERJbf3x/view](https://drive.google.com/file/d/1yYkcZb9EMwhcXLHHfzoF9DmLvERJbf3x/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-mXu8-gLJaElglhh7iEKk9NHXMON6Ts2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
