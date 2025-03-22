@@ -49,11 +49,11 @@
 ## GitHub Analytics
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord" alt="Most Used Languages" />
   <a href="https://git.io/streak-stats">
-    <img height="180cm" src="https://streak-stats.demolab.com?user=shubhamchandratre&theme=nord&margin-h=15" alt="GitHub Streak" />
-  </a>
+    <img height="180cm" src="https://streak-stats.demolab.com/?user=ShubhamChandratre&theme=nord" alt="GitHub Streak">
+</a>
 </div>
 
 ---
