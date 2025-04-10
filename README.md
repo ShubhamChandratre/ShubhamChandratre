@@ -54,12 +54,13 @@
 ## GitHub Analytics
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord" alt="Most Used Languages" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook" 
+    alt="Top Languages (Jupyter Hidden)" 
+  />
   <a href="https://git.io/streak-stats">
     <img height="180cm" src="https://streak-stats.demolab.com/?user=ShubhamChandratre&theme=nord" alt="GitHub Streak">
   </a>
-
 
 </div>
 
@@ -71,4 +72,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham_chandratre_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white)](https://profileshubham.vercel.app)
 
+---
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
