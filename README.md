@@ -1,5 +1,6 @@
+<h1 align="center">Hi 👋, I'm Shubham Chandratre</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Chandratre;Full-Stack+Web+Developer;Problem+Solver;Coding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;Problem+Solver;Coding+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="left">
