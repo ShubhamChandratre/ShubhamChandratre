@@ -6,12 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=shubhamchandratre&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamchandratre" />
 </p>
 
-- 🔭 I’m currently working on **AI Finance Platform**  
+- 🔭 I’m currently working on **API Logs Monitoring**  
 - 🌱 I’m currently learning **Cloud Computing**  
 - 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://profileshubham.vercel.app/)  
 - 📚 Constantly learning and adapting to new technologies 
 - 📫 How to reach me: **chandratreshubham@gmail.com**  
-- 📄 Know about my experiences: [Shubham_Resume](https://drive.google.com/file/d/17o4AejoT_zIoXIcyW-WFKopXQ2f_OP_-/view?usp=sharing)  
+- 📄 Know about my experiences: [Shubham_Resume](https://drive.google.com/file/d/17o4AejoT_zIoXIcyW-WFKopXQ2f_OP_-/view?usp=sharing)
+- 🐳 Check out my Docker Hub: [Shubham on Docker](https://hub.docker.com/u/ShubhamChandratre)
 
 ---
 
