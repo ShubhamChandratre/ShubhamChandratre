@@ -57,18 +57,18 @@
 <div align="left">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord" 
     height="180" 
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook" 
     height="180" 
     alt="Top Languages (Jupyter Hidden)" 
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=nord" 
     height="180" 
     alt="GitHub Streak" 
   />
