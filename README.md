@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=shubhamchandratre&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamchandratre" />
 </p>
 
-- 🔭 I’m currently working on **API Logs Monitoring**  
+- 🔭 I’m currently working on **Adaptive Quiz Generator**  
 - 🌱 I’m currently learning **Cloud Computing**  
 - 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://profileshubham.vercel.app/)  
 - 📚 Constantly learning and adapting to new technologies 
