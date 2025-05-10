@@ -62,7 +62,7 @@
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,html" 
     height="180" 
     alt="Top Languages (Jupyter Hidden)" 
   />
