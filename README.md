@@ -68,7 +68,7 @@
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=nord" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=nord&mode=weekly" 
     height="180" 
     alt="GitHub Streak" 
   />
