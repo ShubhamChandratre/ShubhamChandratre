@@ -60,14 +60,14 @@
     <tr>
       <td width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord&count_private=true&hide_border=false"
+          src="https://github-readme-stats.vercel.app/api?username=ShubhamChandratre&show_icons=true&theme=nord&count_private=true&hide_border=true"
           alt="GitHub Stats"
           width="100%"
         />
       </td>
       <td width="50%">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,html"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamChandratre&layout=compact&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=jupyter%20notebook,html"
           alt="Top Languages (Jupyter Hidden)"
           width="100%"
         />
@@ -76,14 +76,14 @@
     <tr>
       <td width="50%">
         <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=nord&mode=weekly&hide_border=false"
+          src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamChandratre&theme=nord&mode=weekly&hide_border=true"
           alt="GitHub Streak"
           width="100%"
         />
       </td>
       <td width="50%">
         <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChandratre&theme=nord&hide_border=false&area=true"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamChandratre&theme=nord&hide_border=true&area=true"
           alt="Contribution Graph"
           width="100%"
         />
@@ -109,4 +109,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
 ---
+## 🎧 Vibe
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ztubjkkia4pwldmd5x5zd4fola)
