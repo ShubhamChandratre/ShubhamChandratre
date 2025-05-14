@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,30&height=250&section=header&text=Shubham%20Chandratre&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer;Problem+Solver;Coding+Enthusiast" alt="Typing SVG" />
 </div>
 
