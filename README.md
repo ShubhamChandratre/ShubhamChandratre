@@ -111,3 +111,7 @@
 ---
 ## 🎧 Vibe
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ztubjkkia4pwldmd5x5zd4fola)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,30&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
