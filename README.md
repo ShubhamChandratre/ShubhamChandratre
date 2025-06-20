@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Supply Chain Optimization**  
 - 🌱 I’m currently learning **Cloud Computing**  
-- 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://profileshubham.vercel.app/)  
+- 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://shubhamprofile.vercel.app/)  
 - 📚 Constantly learning and adapting to new technologies 
 - 📫 How to reach me: **chandratreshubham@gmail.com**  
 - 📄 Know about my experiences: [Shubham_Resume](https://drive.google.com/file/d/17o4AejoT_zIoXIcyW-WFKopXQ2f_OP_-/view?usp=sharing)
