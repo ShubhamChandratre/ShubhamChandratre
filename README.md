@@ -100,7 +100,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chandratre-a03819257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham_chandratre_/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white)](https://profileshubham.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamprofile.vercel.app/)
 </a>
   <a href="mailto:chandratreshubham@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
