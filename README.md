@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Supply Chain Optimization**  
 - 🌱 I’m currently learning **Cloud Computing**  
-- 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://shubhamprofile.vercel.app/)  
+- 👨‍💻 My Personal Portfolio Website: [Shubham_Portfolio](https://shubhamvc.me)  
 - 📚 Constantly learning and adapting to new technologies 
 - 📫 How to reach me: **chandratreshubham@gmail.com**  
 - 📄 Know about my experiences: [Shubham_Resume](https://drive.google.com/file/d/17o4AejoT_zIoXIcyW-WFKopXQ2f_OP_-/view?usp=sharing)
@@ -100,7 +100,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chandratre-a03819257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham_chandratre_/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamprofile.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamvc.me)
 </a>
   <a href="mailto:chandratreshubham@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
